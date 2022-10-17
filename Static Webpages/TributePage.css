@@ -1,0 +1,22 @@
+#main{
+  background-color:#eee;
+  padding:15px;
+  margin:30px 8px;
+  border-radius:5px;
+}
+#title{
+  text-align:center;
+}
+p{
+  display:block;
+  text-align:center;
+}
+#image{
+  display:block;
+  
+}
+#image{
+  max-width:100%;
+  height:auto;
+  margin:0 auto;
+}
